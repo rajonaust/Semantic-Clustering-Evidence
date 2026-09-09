@@ -1,0 +1,67 @@
+Chatroom,Sender,Timestamp,Text,Predicted Topic,Prompt,Segment
+Chatroom-1,User-1,5/2/18 19:38,Hello,Sleep,What's one thing your best friend doesn't know about you?,0
+Chatroom-1,User-1,5/2/18 19:38,How are you doing today?,Sleep,What's one thing your best friend doesn't know about you?,0
+Chatroom-1,User-2,5/2/18 19:38,whats up MD,Sleep,What's one thing your best friend doesn't know about you?,0
+Chatroom-1,User-2,5/2/18 19:38,im doing good,Sleep,What's one thing your best friend doesn't know about you?,0
+Chatroom-1,User-2,5/2/18 19:38,how are you doing?,Sleep,What's one thing your best friend doesn't know about you?,0
+Chatroom-1,User-1,5/2/18 19:39,"Im alright, I just took a nap. But it was one of those naps that doesnt help anything. It just makes everything worse and you question all your life choices",Sleep,What's one thing your best friend doesn't know about you?,0
+Chatroom-1,User-2,5/2/18 19:39,oh wow haha,Sleep,What's one thing your best friend doesn't know about you?,0
+Chatroom-1,User-2,5/2/18 19:40,so you still feel tired huh?,Sleep,What's one thing your best friend doesn't know about you?,1
+Chatroom-1,User-1,5/2/18 19:40,Yeah,Sleep,What's one thing your best friend doesn't know about you?,1
+Chatroom-1,User-2,5/2/18 19:40,did you go to bed late?,Sleep,What's one thing your best friend doesn't know about you?,1
+Chatroom-1,User-1,5/2/18 19:40,I have more of a head ache than anything else,Sleep,What's one thing your best friend doesn't know about you?,1
+Chatroom-1,User-2,5/2/18 19:40,dude thats terrible,Sleep,What's one thing your best friend doesn't know about you?,1
+Chatroom-1,User-1,5/2/18 19:40,"No, Its just adjusting to a time change",Sleep,What's one thing your best friend doesn't know about you?,1
+Chatroom-1,User-1,5/2/18 19:40,But enough about me,Sleep,What's one thing your best friend doesn't know about you?,1
+Chatroom-1,User-1,5/2/18 19:41,What are you up to?,Skteching,What's one thing your best friend doesn't know about you?,1
+Chatroom-1,User-2,5/2/18 19:41,im refining my skills on Sketch App,Skteching,What's one thing your best friend doesn't know about you?,1
+Chatroom-1,User-2,5/2/18 19:41,have you heard of Sketch?,Skteching,What's one thing your best friend doesn't know about you?,2
+Chatroom-1,User-1,5/2/18 19:42,I havent,Skteching,What's one thing your best friend doesn't know about you?,2
+Chatroom-1,User-1,5/2/18 19:42,What is it?,Skteching,What's one thing your best friend doesn't know about you?,2
+Chatroom-1,User-2,5/2/18 19:43,you know what adobe illustrator is right?,Skteching,What's one thing your best friend doesn't know about you?,2
+Chatroom-1,User-1,5/2/18 19:43,Yes,Skteching,What's one thing your best friend doesn't know about you?,2
+Chatroom-1,User-2,5/2/18 19:43,its a vector graphic editor like illustrator but its a lot more light weight and its for UX designers to design UI,Skteching,What's one thing your best friend doesn't know about you?,2
+Chatroom-1,User-1,5/2/18 19:45,Oh nice!,Skteching,What's one thing your best friend doesn't know about you?,2
+Chatroom-1,User-1,5/2/18 19:45,What have you been practicing designing,Skteching,What's one thing your best friend doesn't know about you?,3
+Chatroom-1,User-2,5/2/18 19:47,Ive been trying to learn more tools on sketch and just get faster at it],Skteching,What's one thing your best friend doesn't know about you?,3
+Chatroom-1,User-2,5/2/18 19:47,Im doing a free lance job for a professor for his app idea and he needs a mockup of what the app will look like for his pitch,Skteching,What's one thing your best friend doesn't know about you?,3
+Chatroom-1,User-1,5/2/18 19:48,Wow that is cool! When is that all due by?,Skteching,What's one thing your best friend doesn't know about you?,3
+Chatroom-1,User-2,5/2/18 19:48,this weekend haha,Skteching,What's one thing your best friend doesn't know about you?,3
+Chatroom-1,User-1,5/2/18 19:50,Do you think you will finish or is that a pushy deadline?,Skteching,What's one thing your best friend doesn't know about you?,3
+Chatroom-1,User-2,5/2/18 19:51,its a deadline I set haha,Skteching,What's one thing your best friend doesn't know about you?,3
+Chatroom-1,User-2,5/2/18 19:51,but I think Ill be able to finish,Skteching,What's one thing your best friend doesn't know about you?,3
+Chatroom-1,User-2,5/2/18 19:51,I hope...,Skteching,What's one thing your best friend doesn't know about you?,3
+Chatroom-1,User-2,5/2/18 19:51,if not I can push it back a little,Skteching,What's one thing your best friend doesn't know about you?,3
+Chatroom-1,User-1,5/2/18 19:52,Well I wish you the best of luck with that deadline,Skteching,What's one thing your best friend doesn't know about you?,4
+Chatroom-1,User-2,5/2/18 19:52,thanks,Skteching,What's one thing your best friend doesn't know about you?,4
+Chatroom-1,User-2,5/2/18 19:53,"do you have any personal projects you are working on""?",Skteching,What's one thing your best friend doesn't know about you?,4
+Chatroom-1,User-1,5/2/18 19:54,Not really projects. I finished editing a bunch of engagement pictures. So now all I am really doing is just practicing some sketching,Skteching,What's one thing your best friend doesn't know about you?,4
+Chatroom-1,User-1,5/2/18 19:57,I can always practice and improve that skill,Skteching,What's one thing your best friend doesn't know about you?,4
+Chatroom-1,User-2,5/2/18 19:58,oh coooool!,Skteching,What's one thing your best friend doesn't know about you?,4
+Chatroom-1,User-2,5/2/18 19:58,was this a paid photoshoot?,Photoshoot,What's one thing your best friend doesn't know about you?,4
+Chatroom-1,User-1,5/2/18 19:59,"Yep, I had a few that I did before I went home for the summer",Photoshoot,What's one thing your best friend doesn't know about you?,4
+Chatroom-1,User-2,5/2/18 20:00,engagement shoots or weddings are goooood money,Photoshoot,What's one thing your best friend doesn't know about you?,4
+Chatroom-1,User-2,5/2/18 20:01,but i hear in utah its super competitive,Photoshoot,What's one thing your best friend doesn't know about you?,4
+Chatroom-1,User-1,5/2/18 20:03,"Yeah there are so many, every other person takes pictures",Photoshoot,What's one thing your best friend doesn't know about you?,5
+Chatroom-1,User-1,5/2/18 20:04,Its easy to do it for friends and people you know but past that it is hard to get more business,Photoshoot,What's one thing your best friend doesn't know about you?,5
+Chatroom-1,User-2,5/2/18 20:06,yeah true,Photoshoot,What's one thing your best friend doesn't know about you?,5
+Chatroom-1,User-2,5/2/18 20:06,do you think if you wanted to pursue your photography you wuold have to move out of utah?,Photoshoot,What's one thing your best friend doesn't know about you?,5
+Chatroom-1,User-1,5/2/18 20:07,"Um maybe, People need pictures everywhere",Photoshoot,What's one thing your best friend doesn't know about you?,5
+Chatroom-1,User-1,5/2/18 20:07,"But I dont really want to do that, its fine for the side, but too hard to make a living on",Photoshoot,What's one thing your best friend doesn't know about you?,5
+Chatroom-1,User-1,5/2/18 20:13,Remind me what you want to do career wise?,Photoshoot,What's one thing your best friend doesn't know about you?,5
+Chatroom-1,User-2,5/2/18 20:13,I want to become a UX desiner,Photoshoot,What's one thing your best friend doesn't know about you?,5
+Chatroom-1,User-2,5/2/18 20:20,if you werent Christian what religion would you be in if at all?,Religious,What's one thing your best friend doesn't know about you?,5
+Chatroom-1,User-1,5/2/18 20:21,Hm,Religious,What's one thing your best friend doesn't know about you?,6
+Chatroom-1,User-1,5/2/18 20:22,Maybe Buddhist,Religious,What's one thing your best friend doesn't know about you?,6
+Chatroom-1,User-1,5/2/18 20:22,What about you?,Religious,What's one thing your best friend doesn't know about you?,6
+Chatroom-1,User-1,5/2/18 20:26,I think its  a really peaceful practice and it would match my personality,Religious,What's one thing your best friend doesn't know about you?,6
+Chatroom-1,User-2,5/2/18 20:29,I probably would be buddhist culturally because IM korean,Religious,What's one thing your best friend doesn't know about you?,6
+Chatroom-1,User-2,5/2/18 20:29,but if i had a choice I wouldn't label myself as any religion,Religious,What's one thing your best friend doesn't know about you?,6
+Chatroom-1,User-2,5/2/18 20:30,egnostic? is that the term?,Religious,What's one thing your best friend doesn't know about you?,6
+Chatroom-1,User-1,5/2/18 20:30,I think that is a term but I dont know exactly what it means,Religious,What's one thing your best friend doesn't know about you?,7
+Chatroom-1,User-1,5/2/18 20:30,Thats really cool,Religious,What's one thing your best friend doesn't know about you?,7
+Chatroom-1,User-2,5/2/18 20:30,I need to go. Thanks for chatting!,Religious,What's one thing your best friend doesn't know about you?,7
+Chatroom-1,User-1,5/2/18 20:31,Hope you have a good day!,Religious,What's one thing your best friend doesn't know about you?,7
+Chatroom-2,User-3,5/9/18 23:19,hi,Religious,Is there something that you don't know that you're embarrassed about not knowing?,7
+Chatroom-2,User-3,5/9/18 23:19,anyone here,Religious,Is there something that you don't know that you're embarrassed about not knowing?,7
+Chatroom-2,User-4,5/9/18 23:19,hey whats up,Religious,Is there something that you don't know that you're embarrassed about not knowing?,7

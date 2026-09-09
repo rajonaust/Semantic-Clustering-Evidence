@@ -1,0 +1,19 @@
+=== Per-window match counts ===
+ Window_Index   User               Start                 End                Topic  Total_Messages  Matching_Messages  Match_Ratio
+            0 User-1 2018-05-02 19:38:00 2018-05-02 19:41:00                  Nap               8                  7        0.875
+            1 User-1 2018-05-02 20:21:00 2018-05-02 20:26:00                  Nap               4                  0        0.000
+            2 User-1 2018-05-02 19:45:00 2018-05-02 20:13:00 Practicing Sketching              13                 13        1.000
+            3 User-2 2018-05-02 19:38:00 2018-05-02 19:41:00                  Nap               9                  7        0.778
+            4 User-2 2018-05-02 20:29:00 2018-05-02 20:30:00                  Nap               4                  0        0.000
+            5 User-2 2018-05-02 19:47:00 2018-05-02 20:20:00 Practicing Sketching              17                 16        0.941
+
+=== Per-topic precision/recall/F1, rolled up from window counts ===
+Manual_Topic  Precision  Recall    F1  Support
+  Photoshoot      0.967    1.00 0.983       12
+   Religious      0.000    0.00 0.000       15
+   Skteching      0.967    0.68 0.798       25
+       Sleep      0.560    1.00 0.718       14
+
+macro    -> precision=0.623  recall=0.670  F1=0.625
+weighted -> precision=0.661  recall=0.652  F1=0.633
+overall  -> precision=0.782  recall=0.652  F1=0.711  (all messages pooled together, not averaged per topic)

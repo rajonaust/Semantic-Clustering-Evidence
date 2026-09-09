@@ -1,0 +1,151 @@
+User,Start Date,Start Time,End Date,End Time,Time Duration,Topic,Probability,Chat Summary,Full Segment Context
+User-1,2018-05-02,19:38:00,2018-05-02,19:41:00,0 days 00:03:00,Nap,0.7645732,"User-1 :: Chatroom-1 [2018-05-02 19:38:00]: Hello
+User-1 :: Chatroom-1 [2018-05-02 19:38:00]: How are you doing today?
+User-1 :: Chatroom-1 [2018-05-02 19:39:00]: Im alright, I just took a nap. But it was one of those naps that doesnt help anything. It just makes everything worse and you question all your life choices
+User-1 :: Chatroom-1 [2018-05-02 19:40:00]: No, Its just adjusting to a time change
+User-1 :: Chatroom-1 [2018-05-02 19:40:00]: But enough about me
+User-1 :: Chatroom-1 [2018-05-02 19:40:00]: Yeah
+User-1 :: Chatroom-1 [2018-05-02 19:40:00]: I have more of a head ache than anything else
+User-1 :: Chatroom-1 [2018-05-02 19:41:00]: What are you up to?","User-1 :: Chatroom-1 [2018-05-02 19:38:00]: Hello
+User-1 :: Chatroom-1 [2018-05-02 19:38:00]: How are you doing today?
+User-2 :: Chatroom-1 [2018-05-02 19:38:00]: whats up MD
+User-2 :: Chatroom-1 [2018-05-02 19:38:00]: im doing good
+User-2 :: Chatroom-1 [2018-05-02 19:38:00]: how are you doing?
+User-1 :: Chatroom-1 [2018-05-02 19:39:00]: Im alright, I just took a nap. But it was one of those naps that doesnt help anything. It just makes everything worse and you question all your life choices
+User-2 :: Chatroom-1 [2018-05-02 19:39:00]: oh wow haha
+User-1 :: Chatroom-1 [2018-05-02 19:40:00]: No, Its just adjusting to a time change
+User-2 :: Chatroom-1 [2018-05-02 19:40:00]: dude thats terrible
+User-1 :: Chatroom-1 [2018-05-02 19:40:00]: But enough about me
+User-2 :: Chatroom-1 [2018-05-02 19:40:00]: did you go to bed late?
+User-1 :: Chatroom-1 [2018-05-02 19:40:00]: Yeah
+User-2 :: Chatroom-1 [2018-05-02 19:40:00]: so you still feel tired huh?
+User-1 :: Chatroom-1 [2018-05-02 19:40:00]: I have more of a head ache than anything else
+User-2 :: Chatroom-1 [2018-05-02 19:41:00]: im refining my skills on Sketch App
+User-1 :: Chatroom-1 [2018-05-02 19:41:00]: What are you up to?"
+User-1,2018-05-02,20:21:00,2018-05-02,20:26:00,0 days 00:05:00,Nap,0.540677,"User-1 :: Chatroom-1 [2018-05-02 20:21:00]: Hm
+User-1 :: Chatroom-1 [2018-05-02 20:22:00]: Maybe Buddhist
+User-1 :: Chatroom-1 [2018-05-02 20:22:00]: What about you?
+User-1 :: Chatroom-1 [2018-05-02 20:26:00]: I think its  a really peaceful practice and it would match my personality","User-1 :: Chatroom-1 [2018-05-02 20:21:00]: Hm
+User-1 :: Chatroom-1 [2018-05-02 20:22:00]: Maybe Buddhist
+User-1 :: Chatroom-1 [2018-05-02 20:22:00]: What about you?
+User-1 :: Chatroom-1 [2018-05-02 20:26:00]: I think its  a really peaceful practice and it would match my personality
+User-2 :: Chatroom-1 [2018-05-02 20:29:00]: but if i had a choice I wouldn't label myself as any religion
+User-2 :: Chatroom-1 [2018-05-02 20:29:00]: I probably would be buddhist culturally because IM korean
+User-2 :: Chatroom-1 [2018-05-02 20:30:00]: egnostic? is that the term?"
+User-1,2018-05-02,19:45:00,2018-05-02,20:13:00,0 days 00:28:00,Practicing Sketching,0.7568199,"User-1 :: Chatroom-1 [2018-05-02 19:45:00]: What have you been practicing designing
+User-1 :: Chatroom-1 [2018-05-02 19:48:00]: Wow that is cool! When is that all due by?
+User-1 :: Chatroom-1 [2018-05-02 19:50:00]: Do you think you will finish or is that a pushy deadline?
+User-1 :: Chatroom-1 [2018-05-02 19:52:00]: Well I wish you the best of luck with that deadline
+User-1 :: Chatroom-1 [2018-05-02 19:54:00]: Not really projects. I finished editing a bunch of engagement pictures. So now all I am really doing is just practicing some sketching
+User-1 :: Chatroom-1 [2018-05-02 19:57:00]: I can always practice and improve that skill
+User-1 :: Chatroom-1 [2018-05-02 19:59:00]: Yep, I had a few that I did before I went home for the summer
+User-1 :: Chatroom-1 [2018-05-02 20:03:00]: Yeah there are so many, every other person takes pictures
+User-1 :: Chatroom-1 [2018-05-02 20:04:00]: Its easy to do it for friends and people you know but past that it is hard to get more business
+User-1 :: Chatroom-1 [2018-05-02 20:07:00]: But I dont really want to do that, its fine for the side, but too hard to make a living on
+User-1 :: Chatroom-1 [2018-05-02 20:07:00]: Um maybe, People need pictures everywhere
+User-1 :: Chatroom-1 [2018-05-02 20:13:00]: Remind me what you want to do career wise?","User-1 :: Chatroom-1 [2018-05-02 19:45:00]: What have you been practicing designing
+User-2 :: Chatroom-1 [2018-05-02 19:47:00]: Im doing a free lance job for a professor for his app idea and he needs a mockup of what the app will look like for his pitch
+User-2 :: Chatroom-1 [2018-05-02 19:47:00]: Ive been trying to learn more tools on sketch and just get faster at it]
+User-1 :: Chatroom-1 [2018-05-02 19:48:00]: Wow that is cool! When is that all due by?
+User-2 :: Chatroom-1 [2018-05-02 19:48:00]: this weekend haha
+User-1 :: Chatroom-1 [2018-05-02 19:50:00]: Do you think you will finish or is that a pushy deadline?
+User-2 :: Chatroom-1 [2018-05-02 19:51:00]: its a deadline I set haha
+User-2 :: Chatroom-1 [2018-05-02 19:51:00]: I hope...
+User-2 :: Chatroom-1 [2018-05-02 19:51:00]: but I think Ill be able to finish
+User-2 :: Chatroom-1 [2018-05-02 19:51:00]: if not I can push it back a little
+User-1 :: Chatroom-1 [2018-05-02 19:52:00]: Well I wish you the best of luck with that deadline
+User-2 :: Chatroom-1 [2018-05-02 19:52:00]: thanks
+User-2 :: Chatroom-1 [2018-05-02 19:53:00]: do you have any personal projects you are working on""?
+User-1 :: Chatroom-1 [2018-05-02 19:54:00]: Not really projects. I finished editing a bunch of engagement pictures. So now all I am really doing is just practicing some sketching
+User-1 :: Chatroom-1 [2018-05-02 19:57:00]: I can always practice and improve that skill
+User-2 :: Chatroom-1 [2018-05-02 19:58:00]: oh coooool!
+User-2 :: Chatroom-1 [2018-05-02 19:58:00]: was this a paid photoshoot?
+User-1 :: Chatroom-1 [2018-05-02 19:59:00]: Yep, I had a few that I did before I went home for the summer
+User-2 :: Chatroom-1 [2018-05-02 20:00:00]: engagement shoots or weddings are goooood money
+User-2 :: Chatroom-1 [2018-05-02 20:01:00]: but i hear in utah its super competitive
+User-1 :: Chatroom-1 [2018-05-02 20:03:00]: Yeah there are so many, every other person takes pictures
+User-1 :: Chatroom-1 [2018-05-02 20:04:00]: Its easy to do it for friends and people you know but past that it is hard to get more business
+User-2 :: Chatroom-1 [2018-05-02 20:06:00]: do you think if you wanted to pursue your photography you wuold have to move out of utah?
+User-2 :: Chatroom-1 [2018-05-02 20:06:00]: yeah true
+User-1 :: Chatroom-1 [2018-05-02 20:07:00]: But I dont really want to do that, its fine for the side, but too hard to make a living on
+User-1 :: Chatroom-1 [2018-05-02 20:07:00]: Um maybe, People need pictures everywhere
+User-2 :: Chatroom-1 [2018-05-02 20:13:00]: I want to become a UX desiner
+User-1 :: Chatroom-1 [2018-05-02 20:13:00]: Remind me what you want to do career wise?
+User-2 :: Chatroom-1 [2018-05-02 20:20:00]: if you werent Christian what religion would you be in if at all?"
+User-2,2018-05-02,19:38:00,2018-05-02,19:41:00,0 days 00:03:00,Nap,0.7645732,"User-2 :: Chatroom-1 [2018-05-02 19:38:00]: whats up MD
+User-2 :: Chatroom-1 [2018-05-02 19:38:00]: im doing good
+User-2 :: Chatroom-1 [2018-05-02 19:38:00]: how are you doing?
+User-2 :: Chatroom-1 [2018-05-02 19:39:00]: oh wow haha
+User-2 :: Chatroom-1 [2018-05-02 19:40:00]: dude thats terrible
+User-2 :: Chatroom-1 [2018-05-02 19:40:00]: did you go to bed late?
+User-2 :: Chatroom-1 [2018-05-02 19:40:00]: so you still feel tired huh?
+User-2 :: Chatroom-1 [2018-05-02 19:41:00]: im refining my skills on Sketch App","User-1 :: Chatroom-1 [2018-05-02 19:38:00]: Hello
+User-1 :: Chatroom-1 [2018-05-02 19:38:00]: How are you doing today?
+User-2 :: Chatroom-1 [2018-05-02 19:38:00]: whats up MD
+User-2 :: Chatroom-1 [2018-05-02 19:38:00]: im doing good
+User-2 :: Chatroom-1 [2018-05-02 19:38:00]: how are you doing?
+User-1 :: Chatroom-1 [2018-05-02 19:39:00]: Im alright, I just took a nap. But it was one of those naps that doesnt help anything. It just makes everything worse and you question all your life choices
+User-2 :: Chatroom-1 [2018-05-02 19:39:00]: oh wow haha
+User-1 :: Chatroom-1 [2018-05-02 19:40:00]: No, Its just adjusting to a time change
+User-2 :: Chatroom-1 [2018-05-02 19:40:00]: dude thats terrible
+User-1 :: Chatroom-1 [2018-05-02 19:40:00]: But enough about me
+User-2 :: Chatroom-1 [2018-05-02 19:40:00]: did you go to bed late?
+User-1 :: Chatroom-1 [2018-05-02 19:40:00]: Yeah
+User-2 :: Chatroom-1 [2018-05-02 19:40:00]: so you still feel tired huh?
+User-1 :: Chatroom-1 [2018-05-02 19:40:00]: I have more of a head ache than anything else
+User-2 :: Chatroom-1 [2018-05-02 19:41:00]: im refining my skills on Sketch App
+User-1 :: Chatroom-1 [2018-05-02 19:41:00]: What are you up to?"
+User-2,2018-05-02,20:29:00,2018-05-02,20:30:00,0 days 00:01:00,Nap,0.540677,"User-2 :: Chatroom-1 [2018-05-02 20:29:00]: but if i had a choice I wouldn't label myself as any religion
+User-2 :: Chatroom-1 [2018-05-02 20:29:00]: I probably would be buddhist culturally because IM korean
+User-2 :: Chatroom-1 [2018-05-02 20:30:00]: egnostic? is that the term?","User-1 :: Chatroom-1 [2018-05-02 20:21:00]: Hm
+User-1 :: Chatroom-1 [2018-05-02 20:22:00]: Maybe Buddhist
+User-1 :: Chatroom-1 [2018-05-02 20:22:00]: What about you?
+User-1 :: Chatroom-1 [2018-05-02 20:26:00]: I think its  a really peaceful practice and it would match my personality
+User-2 :: Chatroom-1 [2018-05-02 20:29:00]: but if i had a choice I wouldn't label myself as any religion
+User-2 :: Chatroom-1 [2018-05-02 20:29:00]: I probably would be buddhist culturally because IM korean
+User-2 :: Chatroom-1 [2018-05-02 20:30:00]: egnostic? is that the term?"
+User-2,2018-05-02,19:47:00,2018-05-02,20:20:00,0 days 00:33:00,Practicing Sketching,0.7568199,"User-2 :: Chatroom-1 [2018-05-02 19:47:00]: Im doing a free lance job for a professor for his app idea and he needs a mockup of what the app will look like for his pitch
+User-2 :: Chatroom-1 [2018-05-02 19:47:00]: Ive been trying to learn more tools on sketch and just get faster at it]
+User-2 :: Chatroom-1 [2018-05-02 19:48:00]: this weekend haha
+User-2 :: Chatroom-1 [2018-05-02 19:51:00]: its a deadline I set haha
+User-2 :: Chatroom-1 [2018-05-02 19:51:00]: I hope...
+User-2 :: Chatroom-1 [2018-05-02 19:51:00]: but I think Ill be able to finish
+User-2 :: Chatroom-1 [2018-05-02 19:51:00]: if not I can push it back a little
+User-2 :: Chatroom-1 [2018-05-02 19:52:00]: thanks
+User-2 :: Chatroom-1 [2018-05-02 19:53:00]: do you have any personal projects you are working on""?
+User-2 :: Chatroom-1 [2018-05-02 19:58:00]: oh coooool!
+User-2 :: Chatroom-1 [2018-05-02 19:58:00]: was this a paid photoshoot?
+User-2 :: Chatroom-1 [2018-05-02 20:00:00]: engagement shoots or weddings are goooood money
+User-2 :: Chatroom-1 [2018-05-02 20:01:00]: but i hear in utah its super competitive
+User-2 :: Chatroom-1 [2018-05-02 20:06:00]: do you think if you wanted to pursue your photography you wuold have to move out of utah?
+User-2 :: Chatroom-1 [2018-05-02 20:06:00]: yeah true
+User-2 :: Chatroom-1 [2018-05-02 20:13:00]: I want to become a UX desiner
+User-2 :: Chatroom-1 [2018-05-02 20:20:00]: if you werent Christian what religion would you be in if at all?","User-1 :: Chatroom-1 [2018-05-02 19:45:00]: What have you been practicing designing
+User-2 :: Chatroom-1 [2018-05-02 19:47:00]: Im doing a free lance job for a professor for his app idea and he needs a mockup of what the app will look like for his pitch
+User-2 :: Chatroom-1 [2018-05-02 19:47:00]: Ive been trying to learn more tools on sketch and just get faster at it]
+User-1 :: Chatroom-1 [2018-05-02 19:48:00]: Wow that is cool! When is that all due by?
+User-2 :: Chatroom-1 [2018-05-02 19:48:00]: this weekend haha
+User-1 :: Chatroom-1 [2018-05-02 19:50:00]: Do you think you will finish or is that a pushy deadline?
+User-2 :: Chatroom-1 [2018-05-02 19:51:00]: its a deadline I set haha
+User-2 :: Chatroom-1 [2018-05-02 19:51:00]: I hope...
+User-2 :: Chatroom-1 [2018-05-02 19:51:00]: but I think Ill be able to finish
+User-2 :: Chatroom-1 [2018-05-02 19:51:00]: if not I can push it back a little
+User-1 :: Chatroom-1 [2018-05-02 19:52:00]: Well I wish you the best of luck with that deadline
+User-2 :: Chatroom-1 [2018-05-02 19:52:00]: thanks
+User-2 :: Chatroom-1 [2018-05-02 19:53:00]: do you have any personal projects you are working on""?
+User-1 :: Chatroom-1 [2018-05-02 19:54:00]: Not really projects. I finished editing a bunch of engagement pictures. So now all I am really doing is just practicing some sketching
+User-1 :: Chatroom-1 [2018-05-02 19:57:00]: I can always practice and improve that skill
+User-2 :: Chatroom-1 [2018-05-02 19:58:00]: oh coooool!
+User-2 :: Chatroom-1 [2018-05-02 19:58:00]: was this a paid photoshoot?
+User-1 :: Chatroom-1 [2018-05-02 19:59:00]: Yep, I had a few that I did before I went home for the summer
+User-2 :: Chatroom-1 [2018-05-02 20:00:00]: engagement shoots or weddings are goooood money
+User-2 :: Chatroom-1 [2018-05-02 20:01:00]: but i hear in utah its super competitive
+User-1 :: Chatroom-1 [2018-05-02 20:03:00]: Yeah there are so many, every other person takes pictures
+User-1 :: Chatroom-1 [2018-05-02 20:04:00]: Its easy to do it for friends and people you know but past that it is hard to get more business
+User-2 :: Chatroom-1 [2018-05-02 20:06:00]: do you think if you wanted to pursue your photography you wuold have to move out of utah?
+User-2 :: Chatroom-1 [2018-05-02 20:06:00]: yeah true
+User-1 :: Chatroom-1 [2018-05-02 20:07:00]: But I dont really want to do that, its fine for the side, but too hard to make a living on
+User-1 :: Chatroom-1 [2018-05-02 20:07:00]: Um maybe, People need pictures everywhere
+User-2 :: Chatroom-1 [2018-05-02 20:13:00]: I want to become a UX desiner
+User-1 :: Chatroom-1 [2018-05-02 20:13:00]: Remind me what you want to do career wise?
+User-2 :: Chatroom-1 [2018-05-02 20:20:00]: if you werent Christian what religion would you be in if at all?"
