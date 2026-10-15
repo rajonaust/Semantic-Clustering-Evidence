@@ -124,8 +124,13 @@ MIT — see `LICENSE`.
 
 ## Citation
 
-This repository is archived on Zenodo. Cite the version DOI matching the
-release used, not the GitHub URL alone.
+## Citation
+
+Archived at Zenodo: https://doi.org/10.5281/zenodo.23400736
+
+Bardhan, R.; Sumanth, V.; Dorai, G.; Regmi, P.; Kumar, P.
+*Encoder Mixing for Unsupervised Topic Discovery in Multi-Platform Chat:
+An Exploratory Study on Proxy Corpora.* Mach. Learn. Knowl. Extr., 2026.
 
 <!--
   Replace with the final release DOI once v1.0.1 (README + grids) is cut,
