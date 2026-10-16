@@ -1,0 +1,49 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "semantic-clustering-evidence"
+version = "0.1.0"
+description = "Unsupervised topic discovery and per-user topic timelines for multi-platform chat (SCOPE extension)."
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.10"
+authors = [
+    { name = "Rajon Bardhan" },
+    { name = "Venkat Sumanth" },
+    { name = "Gokila Dorai" },
+    { name = "Pramesh Regmi" },
+    { name = "Piyush Kumar" },
+]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "pandas>=2.0",
+    "numpy>=1.24",
+    "scikit-learn>=1.3",
+    "sentence-transformers>=2.2",
+    "keybert>=0.8",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.4",
+    "pytest-cov>=4.1",
+]
+
+[project.scripts]
+scope-pipeline = "semantic_clustering_evidence.run_pipeline:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.coverage.run]
+source = ["semantic_clustering_evidence"]
+branch = true
