@@ -64,13 +64,13 @@ import os
 
 from sentence_transformers import SentenceTransformer
 
-import config
-from stage1_clean_dataset import clean_dataset
-from stage2_topic_shifting import run_topic_shifting
-from stage3_topic_naming import run_topic_naming
-from stage4_topic_timeline import run_topic_timeline
-from stage5_topic_equivalence import build_topic_equivalence_table
-from stage6_window_score import run_window_score
+from . import config
+from .stage1_clean_dataset import clean_dataset
+from .stage2_topic_shifting import run_topic_shifting
+from .stage3_topic_naming import run_topic_naming
+from .stage4_topic_timeline import run_topic_timeline
+from .stage5_topic_equivalence import build_topic_equivalence_table
+from .stage6_window_score import run_window_score
 
 
 def get_dataset_input():
@@ -233,7 +233,9 @@ def run_all(dataset_path=None, stage4_model_name=None):
     return topics, timeline
 
 
-if __name__ == "__main__":
+def main():
+    """Entry point for the `scope-pipeline` console script (see
+    pyproject.toml) as well as `python -m semantic_clustering_evidence.run_pipeline`."""
     if os.path.exists(config.SEGMENTED_CSV):
         reuse = input(
             f"Found existing '{config.SEGMENTED_CSV}'. Reuse it and run stage 4 only "
@@ -248,3 +250,7 @@ if __name__ == "__main__":
         dataset_path = get_dataset_input()
         stage4_model_name = get_stage4_model_input()
         run_all(dataset_path, stage4_model_name)
+
+
+if __name__ == "__main__":
+    main()

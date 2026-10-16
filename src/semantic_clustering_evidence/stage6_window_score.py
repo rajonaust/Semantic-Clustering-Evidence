@@ -89,7 +89,13 @@ def run_window_score(
         )
         members = ds[member_mask]
         total = len(members)
-        matches = members["Manual_Topic"].apply(lambda mt: is_equivalent(mt, w["Topic"])).sum()
+        # Guard the empty-window case explicitly: on some pandas string-dtype
+        # configurations, Series.sum() over an empty object/str Series
+        # returns '' instead of 0, which would crash int(matches) below.
+        matches = (
+            members["Manual_Topic"].apply(lambda mt: is_equivalent(mt, w["Topic"])).sum()
+            if total else 0
+        )
 
         window_rows.append({
             "Window_Index": widx,
@@ -104,9 +110,10 @@ def run_window_score(
 
         # record coverage on the message table (a message covered by more than
         # one window -- shouldn't normally happen -- keeps the last one checked)
-        match_flags = members["Manual_Topic"].apply(lambda mt: is_equivalent(mt, w["Topic"]))
-        ds.loc[member_mask, "Covering_Window"] = widx
-        ds.loc[member_mask, "Window_Match"] = match_flags.values
+        if total:
+            match_flags = members["Manual_Topic"].apply(lambda mt: is_equivalent(mt, w["Topic"]))
+            ds.loc[member_mask, "Covering_Window"] = widx
+            ds.loc[member_mask, "Window_Match"] = match_flags.values
 
     window_table = pd.DataFrame(window_rows)
     window_table.to_csv(window_matches_path, index=False)

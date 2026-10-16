@@ -90,7 +90,7 @@ import pandas as pd
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 
-from stage3_topic_naming import DEFAULT_MODEL_NAME
+from .stage3_topic_naming import DEFAULT_MODEL_NAME
 
 
 def load_conversation(

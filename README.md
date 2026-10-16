@@ -22,20 +22,55 @@ Corpora"* (submitted to *Machine Learning and Knowledge Extraction*).
 Stages 1–4 are operational and use no reference labels. Stages 5–6 are the
 evaluation harness and are the only stages that see reference labels.
 
-## Requirements
+All six stage modules, `run_pipeline.py`, and `config.py` live under
+`src/semantic_clustering_evidence/` (standard "src layout" — keeps the
+installable package separate from the README/data/tests clutter at the repo
+root, and avoids accidental same-directory import shadowing).
+
+## Installation
+
+```
+pip install -e ".[dev]"   # editable install + pytest/pytest-cov for the test suite
+```
+
+(`pip install -e .` alone, without `[dev]`, is enough just to run the
+pipeline.) This reads dependencies and the console-script entry point from
+`pyproject.toml` rather than a loose `requirements.txt`.
+
+## Running the pipeline
+
+```
+scope-pipeline
+```
+
+(installed as a console script by `pyproject.toml`; equivalently
+`python -m semantic_clustering_evidence.run_pipeline`.)
 
 Required column: `Text`. Stage 4 additionally requires `Sender`,
 `Timestamp`, and `Chatroom`. Stages 5–6 require a reference label column.
 Column names are configurable in `config.py`.
 
-```
-pip install -r requirements.txt
-python run_pipeline.py
-```
-
 `run_pipeline.py` prompts for the dataset path and the Stage 4 model. Stage 4
 may use a different sentence encoder from Stages 1–3; when it does, it reuses
 the Stage 3 Kneedle thresholds rather than re-estimating them.
+
+## Tests and coverage
+
+```
+pytest --cov=semantic_clustering_evidence --cov-report=term-missing
+```
+
+The suite (`tests/`) unit-tests each stage's logic — cleaning, the Kneedle
+threshold edge cases, HDBSCAN cluster separation, per-user run merging, the
+equivalence grid builder, and window scoring (the last is also a regression
+test locked to the exact numbers in `data/sample/`) — without needing a real
+sentence-transformer model downloaded: a deterministic `FakeEncoder` fixture
+(`tests/conftest.py`) is injected wherever stage code accepts a `model=`
+parameter, and `sentence_transformers`/`keybert` are stubbed in `sys.modules`
+so importing the stage modules doesn't require installing those (optional,
+multi-GB) dependencies just to run unit tests. Current coverage is ~68%
+line/branch combined; the main gaps are `run_pipeline.py`'s interactive
+`input()` prompts and a few verbose-print branches, both low-value to test.
 
 ## Worked example
 
