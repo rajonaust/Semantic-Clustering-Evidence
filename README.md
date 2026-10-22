@@ -1,4 +1,4 @@
-# Encoder Mixing for Unsupervised Topic Discovery in Multi-Platform Chat: An Exploratory Study on Proxy Corpora.pdf
+# Encoder Mixing for Unsupervised Topic Discovery in Multi-Platform Chat: An Exploratory Study on Proxy Corpora
 
 A six-stage unsupervised pipeline that takes a raw multi-user chat export and
 produces topic segments, data-derived topic names, and per-user topic
