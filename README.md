@@ -62,7 +62,7 @@ Run the tests with `pytest`.
 
 ## Worked example
 
-`data/sample/` contains a 67-message, two-chatroom conversation with all
+`data/sample/` contains a 66-message, two-chatroom conversation with all
 intermediate and final outputs precomputed. In the manuscript this file is the
 **Sample walkthrough** — an illustrative example, not one of the two evidential
 corpora.
