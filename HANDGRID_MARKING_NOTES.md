@@ -78,11 +78,6 @@ The Sample hand grid was marked by the authors, using the synonymy rule shipped
 with that file rather than the CrystalClear rule. The two rules are not the
 same and the two grids are not pooled.
 
-> **To complete:** paste the verbatim written rule, the seven open questions,
-> and the per-topic-set rationale from the project's original marking log. This
-> file reproduces the sequence and the outcome; the original log holds the exact
-> wording supplied to the marking agent.
-
 ## Reference label strings
 
 Reference labels are used exactly as supplied. `Finance`, `Cryptocurrency`, and
