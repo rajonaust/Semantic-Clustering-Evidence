@@ -1,4 +1,4 @@
-# SCOPE Extension — Unsupervised Topic Discovery for Multi-Platform Chat
+# Encoder Mixing for Unsupervised Topic Discovery in Multi-Platform Chat: An Exploratory Study on Proxy Corpora.pdf
 
 A six-stage unsupervised pipeline that takes a raw multi-user chat export and
 produces topic segments, data-derived topic names, and per-user topic
